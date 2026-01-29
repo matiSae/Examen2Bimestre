@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="7d0Tu9rkKDQznFBmgFOc" name="Page-1">
+        <mxGraphModel dx="589" dy="593" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="15" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="13" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="appExoTroper" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="672" y="300" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="EXOTROPER" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" parent="1" vertex="1">
+                    <mxGeometry x="247" y="152" width="374" height="543" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Definir una extremidad para usar las armas...&lt;div&gt;(REQ3)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="16" vertex="1">
+                    <mxGeometry x="178" y="215" width="127" height="76" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="El sistema inicia por consola solicitando a Usted que se...&lt;div&gt;(REQ1)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="16" vertex="1">
+                    <mxGeometry x="183" y="34" width="150" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;b&gt;EL Exobot se deriva de un sistema matriz con inteligencia..&lt;/b&gt;&lt;div&gt;&lt;b&gt;(REQ2)&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="16" vertex="1">
+                    <mxGeometry x="17" y="106" width="193" height="81" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Mostrar un formulario &quot;Exotrooper&quot;...&lt;div&gt;(REQ4)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="16" vertex="1">
+                    <mxGeometry x="25" y="262" width="129" height="76" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
